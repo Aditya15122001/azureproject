@@ -1,0 +1,15 @@
+{
+	"name": "df-adityaproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "92df462a-b316-4266-a471-b17c591b816e",
+		"tenantId": "4d696d41-49e6-4183-bf8c-c85d1b9fd75c"
+	}
+}
