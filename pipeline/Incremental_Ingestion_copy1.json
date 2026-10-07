@@ -8,7 +8,7 @@
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
-					"isSequential": false,
+					"isSequential": true,
 					"activities": [
 						{
 							"name": "AzureSQLtoLake",
